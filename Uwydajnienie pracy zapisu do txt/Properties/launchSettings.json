@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Uwydajnienie pracy zapisu do txt": {
+      "commandName": "Project",
+      "commandLineArgs": "4 1 4"
+    }
+  }
+}
